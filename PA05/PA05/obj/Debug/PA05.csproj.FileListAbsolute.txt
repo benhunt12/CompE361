@@ -1,0 +1,10 @@
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\bin\Debug\PA05.exe.config
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\bin\Debug\PA05.exe
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\bin\Debug\PA05.pdb
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.csprojResolveAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.Form1.resources
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.Properties.Resources.resources
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.csproj.GenerateResource.Cache
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.exe
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.pdb
+C:\Users\benja\OneDrive\Documents\Visual Studio 2015\Projects\PA05\PA05\obj\Debug\PA05.Form2.resources
